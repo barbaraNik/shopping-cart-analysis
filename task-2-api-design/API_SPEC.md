@@ -5,9 +5,7 @@
 | Назначение | Получить список магазинов партнеров |
 | HTTP Method | GET |
 | Endpoint | /api/v1/partners |
-| URL пример | http://{домен}/api/v1/partners
-/api/v1/partners?search=metro
-/api/v1/partners?deliveryAvailable=true |
+| URL пример | http://{домен}/api/v1/partners /api/v1/partners?search=metro /api/v1/partners?deliveryAvailable=true |
 
 ## Response Body
 
